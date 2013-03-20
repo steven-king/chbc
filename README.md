@@ -1,4 +1,4 @@
-chbc
+BibleChurch.org Redesign Changes
 ====
 
-Issue tracker for website
+Issue tracker for new website
